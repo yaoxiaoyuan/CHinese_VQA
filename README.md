@@ -8,6 +8,8 @@ This repo trained Chinese vqa model.
 
 ![image](pic/3.jpg)
 
+![image](pic/4.jpg)
+
 If you want to use the model and code, please refer to https://github.com/yaoxiaoyuan/mimix.
 
 ```

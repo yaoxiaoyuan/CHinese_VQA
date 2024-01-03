@@ -1,7 +1,10 @@
 # Chinese vqa
 
 This repo trained Chinese vqa model. 
+v2: The v2 version of the model can generate more detailed descriptions.
+![image](pic/5.jpg)
 
+v1:
 ![image](pic/1.jpg)
 
 ![image](pic/2.jpg)
